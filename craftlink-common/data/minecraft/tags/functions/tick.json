@@ -1,0 +1,7 @@
+{
+    "values": [
+        "craftlink:common/init",
+        "craftlink:common/timers",
+        "#craftlink:per_tick"
+    ]
+}

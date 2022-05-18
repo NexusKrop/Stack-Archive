@@ -1,0 +1,1 @@
+scoreboard players add @a level 0

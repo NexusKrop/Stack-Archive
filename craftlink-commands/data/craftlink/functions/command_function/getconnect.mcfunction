@@ -1,0 +1,2 @@
+tellraw @s {"text": "[Get MPConnect]","color": "green","hoverEvent": {"action": "show_text","value": "<Link>"},"clickEvent": {"action": "open_url","value": "https://bitbucket.org/relaperdev/mpconnect/downloads/"}}
+kill @e[type=minecart,nbt={Passengers:[]}]

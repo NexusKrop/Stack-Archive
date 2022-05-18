@@ -1,0 +1,11 @@
+{
+    "values": [
+        "craftlink:user/init_user",
+        "craftlink:user/registry/uid",
+        "craftlink:user/welcome",
+        "craftlink:user/level/level",
+        "craftlink:user/operation/kick",
+        "craftlink:user/registry/register/register_discovery",
+        "craftlink:user/registry/register/trigger_core"
+    ]
+}
